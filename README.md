@@ -27,7 +27,7 @@ O nosso desafio aqui, é vender brinquedos. Crie um CRUD completo de usuários p
 - Use a Arquitetura MVC para desenvolver a solução;
 - Para o banco de dados, pedimos que você use o Banco Relacional MySql;
 - Use o GIT para o versionamento de código, e ao terminar, basta nos enviar o link do repositório para que possamos testar e avaliar o seu desempenho.
-- Nesse desafio temos 3 CRUD's. Fique atento ao que você irá desenvolver!
+- Nesse desafio precisamos saber quem é o Usuário, qual o Produto e a Compra do mesmo para auditoria;
 
 ### O que estaremos avaliando
 
